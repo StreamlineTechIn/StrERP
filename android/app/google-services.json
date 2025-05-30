@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520030226703",
+    "project_id": "strerp-6c7fb",
+    "storage_bucket": "strerp-6c7fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520030226703:android:9608a4ee1c52a8364b967a",
+        "android_client_info": {
+          "package_name": "com.example.str_erp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpsZs1U896Uqps9StDJ_da-Dh6M7SVwFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
